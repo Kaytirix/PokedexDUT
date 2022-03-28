@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\PokeDex\PokeDex\bin\Debug\netcoreapp3.1\PokeDex.exe
+C:\Users\sebas\source\repos\PokeDex\PokeDex\bin\Debug\netcoreapp3.1\PokeDex.deps.json
+C:\Users\sebas\source\repos\PokeDex\PokeDex\bin\Debug\netcoreapp3.1\PokeDex.runtimeconfig.json
+C:\Users\sebas\source\repos\PokeDex\PokeDex\bin\Debug\netcoreapp3.1\PokeDex.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\PokeDex\PokeDex\bin\Debug\netcoreapp3.1\PokeDex.dll
+C:\Users\sebas\source\repos\PokeDex\PokeDex\bin\Debug\netcoreapp3.1\PokeDex.pdb
+C:\Users\sebas\source\repos\PokeDex\PokeDex\obj\Debug\netcoreapp3.1\PokeDex.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\PokeDex\PokeDex\obj\Debug\netcoreapp3.1\PokeDex.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\PokeDex\PokeDex\obj\Debug\netcoreapp3.1\PokeDex.AssemblyInfo.cs
+C:\Users\sebas\source\repos\PokeDex\PokeDex\obj\Debug\netcoreapp3.1\PokeDex.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\PokeDex\PokeDex\obj\Debug\netcoreapp3.1\PokeDex.dll
+C:\Users\sebas\source\repos\PokeDex\PokeDex\obj\Debug\netcoreapp3.1\PokeDex.pdb
+C:\Users\sebas\source\repos\PokeDex\PokeDex\obj\Debug\netcoreapp3.1\PokeDex.genruntimeconfig.cache
